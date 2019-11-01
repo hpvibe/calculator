@@ -3,6 +3,8 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+[![Build Status](https://havibe.visualstudio.com/Calc/_apis/build/status/hpvibe.calculator?branchName=master)](https://havibe.visualstudio.com/Calc/_build/latest?definitionId=10&branchName=master)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
